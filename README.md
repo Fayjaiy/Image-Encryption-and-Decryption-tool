@@ -15,6 +15,11 @@ The Three ways are:
 
 Here is a sample of Encryption-and-Decryption image by first option "Rail fence cipher":
 
+After we choose an image to encrypt, the encryption photo will apear like this:
+![E2](https://user-images.githubusercontent.com/102144973/221696415-f3050480-fa4c-40ea-8e82-3a7b67134bd1.jpg)
+
+Here is the result when we decrypt it 
+![E1](https://user-images.githubusercontent.com/102144973/221696426-cf6a4147-a265-4c18-8eae-0aa82552eaca.jpg)
 
 
 Email me if any issue has occcured to you 😊
