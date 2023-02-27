@@ -10,3 +10,7 @@ The Three ways are:
 3- Both
 
 
+Email me if any issue has occcured to you 😊
+Fayjaiy33@gmail.com
+
+
